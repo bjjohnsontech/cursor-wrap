@@ -2,7 +2,7 @@
 
 Wraps the mouse cursor around the edges of a multi-monitor layout in Hyprland. Push the cursor off the right edge of the rightmost monitor and it appears at the left edge of the leftmost monitor, and vice versa. That lets you move sideways from any monitor to any other.
 
-Built for Omarchy (Arch Linux) on Hyprland 0.55+, which uses Lua configuration.
+Built for Omarchy (Arch Linux) on Hyprland 0.55+.
 
 ## How it works
 

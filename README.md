@@ -97,3 +97,4 @@ pkill -f cursor-wrap.py
 ## TODO
 - add vertical code
 - create small config window for Constants and Direction selection
+- turn into omarchy plugin
